@@ -1,1 +1,1 @@
-# library-django
+# Online library created with django framework
